@@ -231,7 +231,7 @@ window.addEventListener('DOMContentLoaded', (event) => {
     const tl = gsap.timeline({
       scrollTrigger: {
         trigger: '.footer_energy-wrapper',
-        start: 'top 65%',
+        start: 'top 75%',
       },
     })
 
