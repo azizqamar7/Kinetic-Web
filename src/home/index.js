@@ -121,7 +121,6 @@ window.addEventListener('DOMContentLoaded', (event) => {
         },
         '<45%'
       )
-    // .from('', {})
   }
 
   sectionSecondFoldIx()
